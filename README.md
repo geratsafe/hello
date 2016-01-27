@@ -1,2 +1,2 @@
-# hello
-My test repository
+# New Readme
+This is the new readme file for my test repository.
