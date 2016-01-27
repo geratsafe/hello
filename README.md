@@ -1,2 +1,2 @@
 # New Readme
-This is the new readme fiel for my test repository.
+This is the new readme file for my test repository.
